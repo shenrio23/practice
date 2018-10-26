@@ -1,0 +1,22 @@
+Logging in build 2017.0.0.149 started at: Fri Nov 25 04:52:19 2016
+========================================
+
+==========
+Logging ended at: Fri Nov 25 04:52:19 2016
+
+Logging in build 2017.0.0.149 started at: Fri Nov 25 04:52:30 2016
+========================================
+
+==========
+Logging ended at: Fri Nov 25 04:52:30 2016
+
+Logging in build 2017.0.0.149 started at: Fri Nov 25 04:52:35 2016
+========================================
+[00:00:03.781] 04:52:39.562 | Error - IMS : No AdobeID signed in
+[00:00:13.828] 04:52:49.620 | quitWithUI:Quitting Application. Called by: 
+[00:00:13.937] 04:52:49.724 | Quitting Application after 0.2 minutes. Called by: 
+[00:00:16.609] Logging shutdown normally
+
+==========
+Logging ended at: Fri Nov 25 04:52:52 2016
+
